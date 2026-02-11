@@ -3,23 +3,42 @@
 ## Overview
 A Window Active Directory environment created with Oracle VirtualBox. This lab simulates real-world help desk and junior system administrator tasks.
 
-## Environment
+## Environment Configuration
 - Windows Server 2022 (DC01)
-- Windows 11 Pro (CLIENT01)
+- Windows 11 Pro (Client01)
 - Domain: lab.local
 - Internal Network configuration
 - DNS hosten on a Domain Controller
 
-## Implemented Tasks
-- Created Organizational Units
-- Provisioned domain users
+## Active Directory Implementation
+
+### Organizational Structure
+- Created Organizational Unit: Lab_Users
+- Managed domain-based object placement
+
+### User Lifecycle Management
 - Enforced password change at first logon
-- Simulated account lockout & recovery
-- Removed and rejoined client to domain
+- Simulated account lockout scenarios
+- Configured domain account policty
+- Unlocked and reset user accounts
+
+## Group Policy Configuration
+Configured Account Lockout Policy via Default Domain Policy:
+- Lockout threshold 5 invalid attempts
+- Lockout duration: 15 minutes
+- Resent counter: 15 minutes
 
 ## Skills Demonstrated
-- Active Directory user lifecycle management
-- DNS troubleshooting
-- Domain trust management
-- Account security policies
+- Active Directory Users and Computers (ADUC)
+- Group Policy Management
+- Domain join & recovery workflow
+- Authentication troubheshooting
+
+## Future Expansion
+- Security groups and NTFS permissions
+- File share management
+- Drive mapping via GPO
+- PowerShell Automation
+- Domain trust lifecycle management
+
 
