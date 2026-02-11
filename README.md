@@ -19,7 +19,7 @@ A Window Active Directory environment created with Oracle VirtualBox. This lab s
 ### User Lifecycle Management
 - Enforced password change at first logon
 - Simulated account lockout scenarios
-- Configured domain account policty
+- Configured domain account policy
 - Unlocked and reset user accounts
 
 ## Group Policy Configuration
