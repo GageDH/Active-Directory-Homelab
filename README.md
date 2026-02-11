@@ -37,7 +37,7 @@ Configured Account Lockout Policy via Default Domain Policy:
 ## Screenshots
 
 ### ADUC Console
-![ADUC]("Screenshots/ADUC-Console 01.png")
+![ADUC](Screenshots/ADUC-Console%2001.png)
 
 ## Future Expansion
 - Security groups and NTFS permissions
