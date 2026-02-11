@@ -34,6 +34,11 @@ Configured Account Lockout Policy via Default Domain Policy:
 - Domain join & recovery workflow
 - Authentication troubheshooting
 
+## Screenshots
+
+### ADUC Console
+![ADUC](Screenshots/ADUC-Console 01.png)
+
 ## Future Expansion
 - Security groups and NTFS permissions
 - File share management
