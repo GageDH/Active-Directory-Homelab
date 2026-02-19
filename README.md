@@ -59,7 +59,7 @@ Basic Windows Server administration
 ## Screenshots
 
 ### ADUC Console
-![ADUC](Screenshots/ADUC-Console%2001.png)
+![ADUC](Screenshots/LablocalOUS.png)
 
 ## Future Expansion
 - NTFS permissions
