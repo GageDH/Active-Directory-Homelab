@@ -10,8 +10,6 @@ Domain: lab.local
 Internal network configuration
 DNS hosted on the Domain Controller
 
-### Active Directory Implementation
-
 ## Organizational Structure
 Created Organizational Units (OUs) for Users and Workstations
 Managed domain-based object placement for proper Group Policy scope
