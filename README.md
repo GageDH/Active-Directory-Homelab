@@ -58,8 +58,11 @@ Basic Windows Server administration
 
 ## Screenshots
 
-### ADUC Console
-![ADUC](Screenshots/LablocalOUS.png)
+### ADUC Console and Users
+<img width="1919" height="1079" alt="LablocalOUS" src="https://github.com/user-attachments/assets/79e1d138-9305-4af8-8e04-d9ec45d77953" />
+
+<img width="1919" height="1079" alt="Lablocalusers" src="https://github.com/user-attachments/assets/4573fd78-b293-4c74-9d06-d32e22df661d" />
+
 
 ## Future Expansion
 - NTFS permissions
