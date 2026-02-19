@@ -62,7 +62,7 @@ Basic Windows Server administration
 ![ADUC](Screenshots/ADUC-Console%2001.png)
 
 ## Future Expansion
-- Security groups and NTFS permissions
+- NTFS permissions
 - File share management
 - Drive mapping via GPO
 - PowerShell Automation
