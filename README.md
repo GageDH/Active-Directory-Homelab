@@ -63,6 +63,33 @@ Basic Windows Server administration
 
 <img width="1919" height="1079" alt="Lablocalusers" src="https://github.com/user-attachments/assets/4573fd78-b293-4c74-9d06-d32e22df661d" />
 
+### Account Lockout Policy and Lockout Simulations
+<img width="1919" height="1079" alt="Lockout Policy" src="https://github.com/user-attachments/assets/414c3956-e987-4da9-9545-f2ed990dbae9" />
+
+<img width="1919" height="1079" alt="LockoutLog" src="https://github.com/user-attachments/assets/ee45f6f8-3050-4be8-9407-66fc0b63a479" />
+
+<img width="1919" height="1079" alt="UserLockout2" src="https://github.com/user-attachments/assets/5e59b964-f6d1-41e3-becd-98182ea38b15" />
+
+### Password Policy and Password Reset
+
+<img width="1919" height="1079" alt="Password Policy" src="https://github.com/user-attachments/assets/b1fb685e-c8d0-458e-97a8-378b5a17c055" />
+
+<img width="1919" height="1079" alt="Unlocking" src="https://github.com/user-attachments/assets/ff749729-4bcd-48dd-9356-935fd9b959b7" />
+
+<img width="1919" height="1079" alt="Password Change" src="https://github.com/user-attachments/assets/fd2e46ab-c556-4e45-b967-c4a799bf41a6" />
+
+<img width="1919" height="1079" alt="User Logged In" src="https://github.com/user-attachments/assets/05e810c5-880a-482d-b9a5-b912fa45e16b" />
+
+### GPO Creation and Simulation
+
+<img width="1919" height="1079" alt="GPO Creation" src="https://github.com/user-attachments/assets/fd8b77e2-8302-4935-9449-237a6efccb4e" />
+
+<img width="1919" height="1079" alt="GPO Details" src="https://github.com/user-attachments/assets/9f3b492e-8fa0-41cf-930f-9921a3e61e9c" />
+
+<img width="1919" height="1079" alt="GPO Console" src="https://github.com/user-attachments/assets/8c512c02-d1cd-4a03-be7c-0149d8ca934c" />
+
+<img width="1919" height="1079" alt="GPO Working" src="https://github.com/user-attachments/assets/6593bcd6-72ea-4338-a26b-69483872995c" />
+
 
 ## Future Expansion
 - NTFS permissions
