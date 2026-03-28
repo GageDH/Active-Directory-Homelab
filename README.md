@@ -140,15 +140,7 @@ Images showing the GPO working within the server.
 
 ## File Share Configuration
 
-Created shared directory: C:\CompanyData
-
-Created departmental folders (IT, HR)
-
-Configured share permissions (Authenticated Users → Full Control)
-
-Configured NTFS permissions based on department
-
-Implemented role-based access using security groups (IT_Share_Access, HR_Share_Access)
+Created shared directory: C:\CompanyData and departmental folders (IT, HR). Configured share permissions (Authenticated Users → Full Control) and NTFS permissions based on department. Implemented role-based access using security groups (IT_Share_Access, HR_Share_Access).
 
 Assigned permissions to groups instead of individual users
 
