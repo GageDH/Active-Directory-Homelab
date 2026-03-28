@@ -140,13 +140,13 @@ Images showing the GPO working within the server.
 
 ## File Share Configuration
 
-Created shared directory: C:\CompanyData and departmental folders (IT, HR). Configured share permissions (Authenticated Users → Full Control) and NTFS permissions based on department. Implemented role-based access using security groups (IT_Share_Access, HR_Share_Access).
-
-Assigned permissions to groups instead of individual users
+Created shared directory: C:\CompanyData and departmental folders (IT, HR). Configured share permissions (Authenticated Users → Full Control) and NTFS permissions based on department. Implemented role-based access using security groups (IT_Share_Access, HR_Share_Access). Assigned permissions to groups instead of individual users.
 
 <img width="1914" height="1079" alt="Screenshot_19" src="https://github.com/user-attachments/assets/77e10d9e-d79e-4b64-a758-487cc1b02187" />
 
 <img width="1919" height="1058" alt="Screenshot_20" src="https://github.com/user-attachments/assets/60e609d1-5f04-4e73-a987-09ab3650f9a3" />
+
+Images of created shared directory along with the departmental folders and file permissions.
 
 <img width="1920" height="1062" alt="Screenshot_21" src="https://github.com/user-attachments/assets/833f70f4-5759-40d7-9592-b20378d1a55b" />
 
@@ -156,9 +156,13 @@ Assigned permissions to groups instead of individual users
 
 <img width="1920" height="1065" alt="Screenshot_24" src="https://github.com/user-attachments/assets/12d7429e-3dd7-49e0-bc5b-2f411876e63b" />
 
+Creation of the file security groups and assigning them accordingly.
+
 <img width="1919" height="1079" alt="Screenshot_25" src="https://github.com/user-attachments/assets/b5ca6b5b-e1ba-43b9-b1b9-32c6f49338f3" />
 
 <img width="1919" height="1079" alt="Screenshot_26" src="https://github.com/user-attachments/assets/e602985a-6b61-4ff9-899e-856f3e204a4a" />
+
+Demonstration of an IT user attempting to access a file in the HR Folder and an HR user attempting to access the IT folder.
 
 ## Drive Mapping via GPO
 
