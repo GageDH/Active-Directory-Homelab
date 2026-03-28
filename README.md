@@ -1,7 +1,7 @@
 Active Directory Homelab – User & Group Policy Management
 Overview
 
-A Windows Active Directory environment built using Oracle VirtualBox to simulate real-world Help Desk and junior system administrator tasks. This lab focuses on user lifecycle management, password policy enforcement, account lockouts, and Group Policy configuration and troubleshooting.
+A Windows Active Directory environment built using Oracle VirtualBox to simulate real-world Help Desk and junior system administrator tasks. This lab focuses on user lifecycle management, password policy enforcement, account lockouts, incorporating file share management, role-based access control (RBAC), drive mapping, DHCP network confirguration, and Group Policy configuration and troubleshooting.
 
 ## Environment Configuration
 Windows Server 2022 (DC01 – Domain Controller)
