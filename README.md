@@ -166,19 +166,30 @@ Demonstration of an IT user attempting to access a file in the HR Folder and an 
 
 ## Drive Mapping via GPO
 
-Configured drive mapping using Group Policy Preferences
-Mapped departmental drives:
-IT → I:
-HR → H:
-Used Item-Level Targeting based on security group membership
-Verified drive mapping from domain-joined client
+Configured drive mapping using Group Policy Preferences. Mapped departmental drives: IT → I: and HR → H:. Used Item-Level Targeting based on security group membership. Verified drive mapping from domain-joined client
+
+<img width="1916" height="1079" alt="Screenshot_27" src="https://github.com/user-attachments/assets/5b2b62d5-9cb8-4e6a-8569-24762bacab94" />
+
+<img width="1919" height="1079" alt="Screenshot_28" src="https://github.com/user-attachments/assets/95981ae3-c9d3-4a7f-bdf6-d5c0dc54e2eb" />
+
+<img width="1919" height="1079" alt="Screenshot_29" src="https://github.com/user-attachments/assets/66701599-7cc4-4c96-a870-eb5d95b620c8" />
+
+Creation and demonstration of an IT user accessing their departmental drive.
 
 ## DHCP Configuration
 
-Installed DHCP Server role on Domain Controller
-Created scope: 10.0.0.100 – 10.0.0.200
-Configured DNS settings to point to Domain Controller
-Verified client lease assignment using ipconfig /all
-Tested end-to-end network configuration from client machine
+Installed DHCP Server role on Domain Controller. Created scope: 10.0.0.100 – 10.0.0.200. Configured DNS settings to point to Domain Controller. Verified client lease assignment using ipconfig /all. Tested end-to-end network configuration from client machine
 
+<img width="1918" height="1063" alt="Screenshot_14" src="https://github.com/user-attachments/assets/feba71cd-f557-4d62-af00-e6a11a09d01a" />
 
+<img width="1918" height="1059" alt="Screenshot_15" src="https://github.com/user-attachments/assets/e9d01359-17d7-4172-b1e4-eab3cfb1461e" />
+
+<img width="1918" height="1003" alt="Screenshot_16" src="https://github.com/user-attachments/assets/6799c6ad-2e31-490f-a428-cf9229b0937e" />
+
+Creation of the DHCP Server with the scope 10.0.0.100 - 10.0.0.200.
+
+<img width="1919" height="1064" alt="Screenshot_17" src="https://github.com/user-attachments/assets/af0af0d9-ac1d-488c-860b-b272788b9004" />
+
+<img width="1920" height="1060" alt="Screenshot_18" src="https://github.com/user-attachments/assets/3d55e7dc-5e86-4250-9436-109ee9492840" />
+
+Test of the end-to-end network configuration on the client machine.
